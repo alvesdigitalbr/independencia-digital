@@ -5,32 +5,42 @@ body {
   margin: 0;
   padding: 0;
 }
+
 header {
   background-color: #0f172a;
-  color: #ffffff;
   padding: 20px;
   text-align: center;
 }
+
 header h1 {
-  color: #B0C4DE;
+  color: #ffffff;
 }
+
+header p {
+  color: #cbd5e1;
+}
+
 nav a {
   color: #cbd5e1;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
 }
+
 nav a:hover {
   color: #ffffff;
 }
+
 section {
   max-width: 800px;
   margin: 40px auto;
   padding: 0 20px;
 }
+
 h1, h2 {
-  color: #ffffff;
+  color: #0f172a;
 }
+
 footer {
   text-align: center;
   padding: 20px;
