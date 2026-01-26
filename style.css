@@ -37,8 +37,16 @@ section {
   padding: 0 20px;
 }
 
-h1, h2 {
-  color: #ffffff;
+header h1 {
+  color: #000000;
+}
+
+header p {
+  color: #00ffff;
+}
+
+section h2 {
+  color: #008B8B;
 }
 
 footer {
