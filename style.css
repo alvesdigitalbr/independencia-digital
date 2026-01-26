@@ -59,3 +59,20 @@ footer {
   background-color: #e5e7eb;
   font-size: 14px;
 }
+
+.btn-principal {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #38bdf8;
+  color: #0f172a;
+  text-decoration: none;
+  font-family: 'Poppins', Arial, sans-serif;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-principal:hover {
+  background-color: #0ea5e9;
+}
