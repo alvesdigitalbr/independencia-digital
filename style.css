@@ -76,3 +76,9 @@ footer {
 .btn-principal:hover {
   background-color: #0ea5e9;
 }
+
+section {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
